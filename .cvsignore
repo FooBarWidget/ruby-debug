@@ -1,0 +1,15 @@
+COPYING
+INSTALL
+Makefile
+Makefile.in
+NEWS
+aclocal.m4
+autom4te.cache
+config.log
+config.status
+configure
+elisp-comp
+install-sh
+missing
+pkg
+ruby-debug-*.tar.gz
